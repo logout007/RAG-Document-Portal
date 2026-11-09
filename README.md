@@ -3,7 +3,7 @@
 > Semantic document search built with OpenAI embeddings + pgvector + GPT-4o-mini.
 > Upload PDFs, ask questions in plain English, get precise answers with source citations.
 
-Built at **Aponiar Solutions** to cut internal document search time by ~70%.
+A public replica of an internal document portal I built at **Aponiar Solutions**, rebuilt from scratch for demonstration. Not deployed, and contains no company code or data.
 
 ---
 
